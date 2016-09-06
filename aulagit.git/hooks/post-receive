@@ -1,0 +1,2 @@
+#!/bin/sh
+GIT_WORK_TREE=/C:\Users\Luiz\Documents\aulagit\hello-world\meusite.com.br git checkout -f
